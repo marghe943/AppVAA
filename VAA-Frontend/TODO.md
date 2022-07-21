@@ -1,0 +1,14 @@
+### Per Completare
+- [X] Tasto Indietro
+- [X] Rimuovere JSON Server
+- [X] Sostituire numQuestion = 10 con l'effettivo numero di domande (da caricare in survey/created)
+- [ ] Rimuovere log di debug
+- [X] Accesso sicuro alle API con JWT
+- [ ] Login con Google e Twitter
+- [X] L'utente non deve usare l'url per spostarsi tra le domande
+- [X] Nella tabella Answer inserire Created_at e Update_at (automatici)
+- [X] Stile con bootstrap
+- [X] Dockerfile
+- [X] Togliere Timer
+- [ ] Controlli HTTP status in survey.vue 
+- [ ] risolvere errore CORS per il deploy
